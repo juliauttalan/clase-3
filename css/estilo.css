@@ -1,0 +1,21 @@
+
+/*selectora de etiqueta*/
+h1{color:white;}
+h4{color:white;}
+p{color:white;}
+/* PROPIEDADES LISTA */
+ul{list-style-type: none;} /*le sacamos las viñetas a la lista*/
+body{background-color: black;} 
+h1, p{font-family: 'Nanum Myeongjo', serif;
+}
+h1{font-weight:800;}
+p{font-weight:400;}
+
+nav ul li {
+    list-style: none;
+    margin-left: 45px;
+    padding: 12px 0;
+    float:left;
+    position: relativa;
+    color:white
+}
